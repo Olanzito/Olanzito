@@ -3,6 +3,8 @@
 
 - 🌱 Atualmente eu estou estudando **Java**
 
+- 🎓 Estou cursando **Análise e Desenvolvimento de Sistemas** no **CEUB**
+
 - 📫 você me acha através do e-mail **henriquemilhorim@hotmail.com**
 
 - Meu Linkedin [https://www.linkedin.com/in/henrique-milhorim-b0304b333/](https://www.linkedin.com/in/henrique-milhorim-b0304b333/)
