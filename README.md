@@ -1,13 +1,7 @@
-<h1 align="center">Oi 👋, Eu sou Olanzito</h1>
+<h1 align="center">Oi 👋, Eu sou Henrique Milhorim</h1>
 <h3 align="center">Apaixonado por tecnologia, internet e dados no mundo digital</h3>
 
-- 🔭 Atualmente eu trabalho como criador de conteudo [Canal no youtube](https://www.youtube.com/@Olanzito)
-
 - 🌱 Atualmente eu estou estudando **Java**
-
-- 👨‍💻 Todas minhas redes sociais [linktr.ee/olanzito](linktr.ee/olanzito)
-
-- 💬 Me pergunte sobre **edição de vídeo e design gráfico**
 
 - 📫 você me acha através do e-mail **henriquemilhorim@hotmail.com**
 
